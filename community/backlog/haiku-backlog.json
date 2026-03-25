@@ -81,7 +81,9 @@
     "kigo": "Sparrow chicks (suzume no ko)",
     "notes": "Playful and warm, characteristic of Issa's tone.",
     "issued": false,
-    "completed": true
+    "completed": true,
+    "completedBy": "ManVT26",
+    "completedPR": 10130
   },
   {
     "id": 8,
