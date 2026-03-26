@@ -663,7 +663,7 @@
     "note": "距離感が縮まるまでは敬語が無難。",
     "id": 74,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "situation": "レジ会計 4",
@@ -671,7 +671,7 @@
     "dont": "現金を投げるように渡す",
     "note": "丁寧で非接触な受け渡し。",
     "id": 75,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
