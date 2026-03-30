@@ -105,7 +105,7 @@
     "example": "資料をホッチキスで留めてください。",
     "id": 12,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "ドンマイ (donmai)",
@@ -465,7 +465,7 @@
     "example": "資料をホッチキスで留めてください。",
     "id": 52,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "ドンマイ (donmai)",
@@ -647,7 +647,7 @@
     "example": "資料をホッチキスで留めてください。",
     "id": 72,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "ドンマイ (donmai)",
@@ -827,7 +827,7 @@
     "example": "資料をホッチキスで留めてください。",
     "id": 92,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "ドンマイ (donmai)",
@@ -1007,7 +1007,7 @@
     "example": "資料をホッチキスで留めてください。",
     "id": 112,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "ドンマイ (donmai)",
@@ -1069,7 +1069,7 @@
     "explanation": "Common term for plastic drink bottle. (Set 6)",
     "example": "ペットボトルは分別して捨てる。",
     "id": 119,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
