@@ -424,16 +424,16 @@ const KanjiInputGame = ({
           <textarea
             ref={inputRef}
             value={inputValue}
-            placeholder='Type your answer...'
+            placeholder='type your answer...'
             disabled={showContinue}
             rows={4}
             className={clsx(
               'w-full max-w-xs sm:max-w-sm md:max-w-md',
-              'rounded-2xl px-5 py-4',
-              'rounded-2xl border-1 border-(--border-color) bg-(--card-color)',
+              'rounded-3xl px-5 py-4',
+              'border-4 border-(--border-color) bg-(--card-color)',
               'text-top text-left text-lg font-medium lg:text-xl',
               'text-(--secondary-color) placeholder:text-base placeholder:font-normal placeholder:text-(--secondary-color)/40',
-              'game-input resize-none focus:outline-none',
+              'game-input resize-none focus:border-(--secondary-color) focus:outline-none',
               'transition-colors duration-200 ease-out',
               showContinue && 'cursor-not-allowed opacity-60',
             )}
